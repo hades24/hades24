@@ -1,6 +1,7 @@
 <p align="center">
-    ###  こんにちは  👋
+    <b>んにちは  👋</b>
 </p>
+<img src="https://c.tenor.com/KeDD0PrMX1gAAAAd/jake-lofi.gif">
 
 
 - 🔭 I’m currently working on small projects using python and c...
