@@ -1,8 +1,9 @@
 <p align="center">
     <b>んにちは  👋</b>
 </p>
-<img src="https://c.tenor.com/KeDD0PrMX1gAAAAd/jake-lofi.gif">
-
+<p align="center">
+    <img src="https://c.tenor.com/FdkbSvSxI9MAAAAd/chilled-lamb-mienar.gif">
+</p>
 
 - 🔭 I’m currently working on small projects using python and c...
 - 🌱 I’m currently learning ML and web dev...
