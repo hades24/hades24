@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 currently working on minor projects involving web development
-- &#128187; have created 2 static website, trying dynamic
+- &#128187; scoping - MERN developer
 - 👯 open to collaborate with any project 
 - 🤔 I can contribute with respect to front end and databases
 - 📫 How to reach me: piyushsharma7428@gmail.com...
